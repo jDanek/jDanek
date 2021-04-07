@@ -1,6 +1,6 @@
 # Hi 👋, I'm jDanek
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" width="40%" src="https://github-profile-trophy.vercel.app/?username=jdanek&row=2&column=3&no-bg=true" alt="jdanek" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" width="40%" src="https://github-profile-trophy.vercel.app/?username=jdanek&row=2&column=3" alt="jdanek" /></a>
 
 ## About Me
 I'm a stubborn PHP developer from the Czech Republic, who has programming mainly as a hobby. Most of my work is about creating plugins, themes and extensions for Sunlight CMS. I also like to experiment with other programming languages such as Java or Lua.
