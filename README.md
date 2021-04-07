@@ -22,7 +22,7 @@ I'm a stubborn PHP developer from the Czech Republic, who has programming mainly
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img height="137px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdanek&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=555&icon_color=000">
-    &nbsp;<img height="137px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanek&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=555&icon_color=000">
+    <img height="137px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdanek&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=555&icon_color=000">
+    &nbsp;<img height="137px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanek&hide=html&hide_title=true&layout=compact&langs_count=7&text_color=555&icon_color=000">
 </p>
 </details>
